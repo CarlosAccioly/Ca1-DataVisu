@@ -1,0 +1,8 @@
+# Data files (not uploaded, as required by the assignment)
+*.xlsx
+*.xls
+*.csv
+*.zip
+
+# Jupyter temporary files
+.ipynb_checkpoints/
