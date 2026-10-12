@@ -3,6 +3,7 @@
 *.xls
 *.csv
 *.zip
+*.pkl
 
 # Jupyter temporary files
 .ipynb_checkpoints/
